@@ -1,0 +1,50 @@
+[
+  {
+    "person": "http://www.wikidata.org/entity/Q518997",
+    "personLabel": "Jennifer Dunn",
+    "personImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jenniferdunn.jpg",
+    "birthPlaceLabel": "http://www.wikidata.org/entity/Q5083"
+  },
+  {
+    "person": "http://www.wikidata.org/entity/Q520314",
+    "personLabel": "Anthony Mosse",
+    "personImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Anthony%20Mosse%20%28cropped%29.jpg",
+    "birthPlaceLabel": "http://www.wikidata.org/entity/Q8646"
+  },
+  {
+    "person": "http://www.wikidata.org/entity/Q523424",
+    "personLabel": "Florence Merriam Bailey",
+    "personImage": "http://commons.wikimedia.org/wiki/Special:FilePath/FlorenceMerriam1904.jpg",
+    "birthPlaceLabel": "http://www.wikidata.org/entity/Q2006311"
+  },
+  {
+    "person": "http://www.wikidata.org/entity/Q524278",
+    "personLabel": "Jay Roach",
+    "personImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Jay%20Roach%20%282013%29.JPG",
+    "birthPlaceLabel": "http://www.wikidata.org/entity/Q34804"
+  },
+  {
+    "person": "http://www.wikidata.org/entity/Q524571",
+    "personLabel": "Ogonna Nnamani",
+    "personImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ogonna%20Nnamani.jpg",
+    "birthPlaceLabel": "http://www.wikidata.org/entity/Q490385"
+  },
+  {
+    "person": "http://www.wikidata.org/entity/Q525946",
+    "personLabel": "Edith Green",
+    "personImage": "http://commons.wikimedia.org/wiki/Special:FilePath/EdithGreen.jpg",
+    "birthPlaceLabel": "http://www.wikidata.org/entity/Q1898599"
+  },
+  {
+    "person": "http://www.wikidata.org/entity/Q528491",
+    "personLabel": "Deborah Berebichez",
+    "personImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Outrageous%20Acts%20of%20Thinking-Berebichez%20-%20NECSS%202015.JPG",
+    "birthPlaceLabel": "http://www.wikidata.org/entity/Q1489"
+  },
+  {
+    "person": "http://www.wikidata.org/entity/Q528593",
+    "personLabel": "Ethan Canin",
+    "personImage": "http://commons.wikimedia.org/wiki/Special:FilePath/Ethan%20Canin%20photo%20Iowa%20City.jpg",
+    "birthPlaceLabel": "http://www.wikidata.org/entity/Q485172"
+  }
+]
